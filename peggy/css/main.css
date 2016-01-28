@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Microsoft JhengHei";
+    src: url(msjh.ttc);
+}
+@font-face {
+    font-family: "DFHaiBaoStd-W9";
+    src: url(华康海报体9.otf);
+}
+h1 {
+    font-size: 50px;
+    font-family: DFHaiBaoStd-W9;
+    text-align: center;
+}
+body {
+    text-align: center;
+}
+p {
+    font-size: 45px;
+}
+h2 {
+    font-size: 30px;
+    font-family: Microsoft JhengHei;
+}
+body {
+    background-color: #FFEAE0;
+}
